@@ -1,0 +1,40 @@
+[
+    {
+        "class": "snowsuit",
+        "score": 0.723,
+        "type_hierarchy": "/overgarment/snowsuit"
+    },
+    {
+        "class": "overgarment",
+        "score": 0.725
+    },
+    {
+        "class": "garment",
+        "score": 0.731
+    },
+    {
+        "class": "fur hat",
+        "score": 0.54,
+        "type_hierarchy": "/headdress/fur hat"
+    },
+    {
+        "class": "hat",
+        "score": 0.551
+    },
+    {
+        "class": "headdress",
+        "score": 0.551
+    },
+    {
+        "class": "doll",
+        "score": 0.53
+    },
+    {
+        "class": "claret red color",
+        "score": 0.829
+    },
+    {
+        "class": "gray color",
+        "score": 0.564
+    }
+]
