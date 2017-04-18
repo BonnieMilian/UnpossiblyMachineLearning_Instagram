@@ -5,6 +5,8 @@
 
 On this repo I will share my implementation to this challenge
 
+*Mi first competition* :smile:
+
 
 ### Why predict photo popularity?
 
